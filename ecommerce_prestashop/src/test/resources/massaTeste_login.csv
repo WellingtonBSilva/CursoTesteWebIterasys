@@ -1,0 +1,3 @@
+﻿nomeTeste;email;password;nomeUsuario;resultado
+LoginValido;testeWell@teste.com;123456;TesteWell Silva;positivo
+LoginInvalido;testeWell@teste.com;Teste123;TesteWell Silva;negativo
